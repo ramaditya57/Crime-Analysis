@@ -61,33 +61,6 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 ---
 
-## 🛠 Installation
-
-  **1. Clone the repository:**
-  git clone https://github.com/themrinal/Data-Analysis-Project.git
-  cd Data-Analysis-Project
-
-  **2. (Optional) Create a virtual environment:**
-  python -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-  **3. Install dependencies:**
-  pip install -r requirements.txt
-
----
-
-## 🚀 How to Run
-
-  **1. Launch Jupyter Notebook:**
-  jupyter notebook
-
-  **2. Open the file:**
-  Data_Analysis_Project_with_Python.ipynb
-
-  **3. Run each cell step-by-step to follow the analysis.**
-
----
-
 ## 📊 Tools and Libraries Used
 - Python – Core programming language
 - Jupyter Notebook – Interactive coding environment
